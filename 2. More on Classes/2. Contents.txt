@@ -1,0 +1,13 @@
+2.1 Encapsulation
+2.2 Inheritance
+2.3 Polymorphism
+2.4 Overriding & Overloading
+2.5 Abstract Classes
+2.6 Interfaces
+2.7 Casting
+2.8 Downcasting
+2.9 Anonymous Classes
+2.10 Inner Classes
+2.11 The equals() method
+2.12 Enums
+2.13 Using the Java API
