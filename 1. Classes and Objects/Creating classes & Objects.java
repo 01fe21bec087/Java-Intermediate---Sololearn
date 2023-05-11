@@ -13,7 +13,7 @@ which should print "Loading" when called.
 Don't forget to use new keyword while creating an object.
 */
 
-
+//Class: blueprint;.  Object: building
 public class Main {
    public static void main(String[] args) {
        Loading loading = new Loading();
